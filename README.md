@@ -1,1 +1,3 @@
-# apnacollege-doemo
+# apnacollege-demo
+This is my first Git Repository
+Author-Rais Mansuri
